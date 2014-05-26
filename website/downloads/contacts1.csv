@@ -1,0 +1,3 @@
+client_id,consultant_id,firstname,surname,address1,address2,town,county,postcode,country,email1,email2,telephone1,telephone2,previous_client,gender,date_of_birth,height,waist,start_weight,bmi,medical_id,doctor_name,doctor_surgery,doctor_address1,doctor_address2,doctor_town,doctor_county,doctor_postcode,doctor_country,grouping
+1,1,Ian,McLauchlan,"St Johns House",Garrigill,Alston,Cumbria,"CA9 3DS",UK,ianmac@felltech.com,ianmac@felltech.com,07900494550,01434382537,0,male,1966-03-10,170,85,78,0,1,"Sarah Mills",,,,,,,,Clients
+40,1,Test,NewContact,,,,,,,,,,,0,notset,2013-01-01,0,0,0,0,0,,,,,,,,,Clients
